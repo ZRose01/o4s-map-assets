@@ -87,7 +87,7 @@
   "countyFips": "31119",
   "name": "",
   "descriptorText": "",
-  "image": ""
+  "image": "img-8680-7d6c3377.jpg"
  },
  {
   "city": "Hastings",
@@ -403,20 +403,5 @@
   "precision": "manual",
   "county": "Cherry",
   "countyFips": "31031"
- },
- {
-  "name": "Big Dog Event",
-  "descriptorText": "Test event 2",
-  "city": "",
-  "venue": "",
-  "date": "08/11/2026",
-  "address": "2103 Stone St #1659, Falls City",
-  "attendance": "",
-  "image": "kwbell-headshot-9b29a110.jpg",
-  "lat": 40.0657935,
-  "lng": -95.6030752,
-  "precision": "manual",
-  "county": "Richardson",
-  "countyFips": "31147"
  }
 ]
