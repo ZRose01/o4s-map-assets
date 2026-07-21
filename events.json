@@ -9,7 +9,10 @@
   "lng": -96.1208401,
   "precision": "address",
   "county": "Cass",
-  "countyFips": "31025"
+  "countyFips": "31025",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Mitchell",
@@ -21,7 +24,10 @@
   "lng": -103.8086637,
   "precision": "city",
   "county": "Scotts Bluff",
-  "countyFips": "31157"
+  "countyFips": "31157",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "La Vista",
@@ -33,7 +39,10 @@
   "lng": -96.0992723,
   "precision": "address",
   "county": "Sarpy",
-  "countyFips": "31153"
+  "countyFips": "31153",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Fremont",
@@ -45,7 +54,10 @@
   "lng": -96.4971039,
   "precision": "address",
   "county": "Dodge",
-  "countyFips": "31053"
+  "countyFips": "31053",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Columbus",
@@ -57,7 +69,10 @@
   "lng": -97.3584077,
   "precision": "address",
   "county": "Platte",
-  "countyFips": "31141"
+  "countyFips": "31141",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Norfolk",
@@ -69,7 +84,10 @@
   "lng": -97.4091072,
   "precision": "address",
   "county": "Madison",
-  "countyFips": "31119"
+  "countyFips": "31119",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Hastings",
@@ -81,7 +99,10 @@
   "lng": -98.3889181,
   "precision": "address",
   "county": "Adams",
-  "countyFips": "31001"
+  "countyFips": "31001",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "South Sioux City",
@@ -93,7 +114,10 @@
   "lng": -96.4136876,
   "precision": "address",
   "county": "Dakota",
-  "countyFips": "31043"
+  "countyFips": "31043",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Grand Island",
@@ -105,7 +129,10 @@
   "lng": -98.338685,
   "precision": "city",
   "county": "Hall",
-  "countyFips": "31079"
+  "countyFips": "31079",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "North Platte",
@@ -117,7 +144,10 @@
   "lng": -100.765984,
   "precision": "address",
   "county": "Lincoln",
-  "countyFips": "31111"
+  "countyFips": "31111",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Lexington",
@@ -129,7 +159,10 @@
   "lng": -99.7414869,
   "precision": "city",
   "county": "Dawson",
-  "countyFips": "31047"
+  "countyFips": "31047",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Kearney",
@@ -141,7 +174,10 @@
   "lng": -99.081428,
   "precision": "address",
   "county": "Buffalo",
-  "countyFips": "31019"
+  "countyFips": "31019",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Ralston",
@@ -153,7 +189,10 @@
   "lng": -96.02656,
   "precision": "address",
   "county": "Douglas",
-  "countyFips": "31055"
+  "countyFips": "31055",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Plattsmouth",
@@ -165,7 +204,10 @@
   "lng": -95.883976,
   "precision": "address",
   "county": "Cass",
-  "countyFips": "31025"
+  "countyFips": "31025",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Nebraska City",
@@ -177,7 +219,10 @@
   "lng": -95.8547071,
   "precision": "address",
   "county": "Otoe",
-  "countyFips": "31131"
+  "countyFips": "31131",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Blair",
@@ -189,7 +234,10 @@
   "lng": -96.1150661,
   "precision": "address",
   "county": "Washington",
-  "countyFips": "31177"
+  "countyFips": "31177",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Beatrice",
@@ -201,7 +249,10 @@
   "lng": -96.732304,
   "precision": "address",
   "county": "Gage",
-  "countyFips": "31067"
+  "countyFips": "31067",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Crete",
@@ -213,7 +264,10 @@
   "lng": -96.9532097,
   "precision": "address",
   "county": "Saline",
-  "countyFips": "31151"
+  "countyFips": "31151",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Wahoo",
@@ -225,7 +279,10 @@
   "lng": -96.6197985,
   "precision": "city",
   "county": "Saunders",
-  "countyFips": "31155"
+  "countyFips": "31155",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Lincoln",
@@ -237,7 +294,10 @@
   "lng": -96.7012119,
   "precision": "address",
   "county": "Lancaster",
-  "countyFips": "31109"
+  "countyFips": "31109",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Alliance",
@@ -249,7 +309,10 @@
   "lng": -102.8711743,
   "precision": "address",
   "county": "Box Butte",
-  "countyFips": "31013"
+  "countyFips": "31013",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Chadron",
@@ -261,7 +324,10 @@
   "lng": -103.000107,
   "precision": "address",
   "county": "Dawes",
-  "countyFips": "31045"
+  "countyFips": "31045",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Crawford",
@@ -273,7 +339,10 @@
   "lng": -103.4035741,
   "precision": "address",
   "county": "Dawes",
-  "countyFips": "31045"
+  "countyFips": "31045",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Gering",
@@ -285,7 +354,10 @@
   "lng": -103.6614682,
   "precision": "address",
   "county": "Scotts Bluff",
-  "countyFips": "31157"
+  "countyFips": "31157",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Schyuler",
@@ -297,7 +369,10 @@
   "lng": -97.0572541,
   "precision": "city",
   "county": "Colfax",
-  "countyFips": "31037"
+  "countyFips": "31037",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
  },
  {
   "city": "Scottsbluff",
@@ -309,6 +384,24 @@
   "countyFips": "31157",
   "lat": 41.87,
   "lng": -103.66,
-  "precision": "city"
-}
+  "precision": "city",
+  "name": "",
+  "descriptorText": "",
+  "image": ""
+ },
+ {
+  "name": "Test Event",
+  "descriptorText": "This is a test test test. <\\br> test among us",
+  "city": "Auburn",
+  "venue": "The rat house",
+  "date": "01/01/2026",
+  "address": "420 E 1st St, Valentine, NE 69201",
+  "attendance": "420",
+  "image": "img-0856-7385599b.jpg",
+  "lat": 42.8720473,
+  "lng": -100.5457277,
+  "precision": "manual",
+  "county": "Cherry",
+  "countyFips": "31031"
+ }
 ]
