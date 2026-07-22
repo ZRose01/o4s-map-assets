@@ -403,5 +403,20 @@
   "precision": "manual",
   "county": "Cherry",
   "countyFips": "31031"
+ },
+ {
+  "name": "Test Future Event with Link",
+  "descriptorText": "This is a test link: <a href=\"mobilize.us\">this</a> is a link to mobilize.us",
+  "city": "Valentine",
+  "venue": "",
+  "date": "08/10/2026",
+  "address": "302 N Main St, Valentine, NE 69201",
+  "attendance": "",
+  "image": "",
+  "lat": 42.8747868,
+  "lng": -100.5505659,
+  "precision": "manual",
+  "county": "Cherry",
+  "countyFips": "31031"
  }
 ]
