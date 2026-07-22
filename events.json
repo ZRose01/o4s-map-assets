@@ -390,21 +390,6 @@
   "image": ""
  },
  {
-  "name": "Test Event",
-  "descriptorText": "This is a test test test. <\\br> test among us",
-  "city": "Auburn",
-  "venue": "The rat house",
-  "date": "01/01/2026",
-  "address": "420 E 1st St, Valentine, NE 69201",
-  "attendance": "420",
-  "image": "img-0856-7385599b.jpg",
-  "lat": 42.8720473,
-  "lng": -100.5457277,
-  "precision": "manual",
-  "county": "Cherry",
-  "countyFips": "31031"
- },
- {
   "name": "Test Future Event with Link",
   "descriptorText": "This is a test link: <a href=\"mobilize.us\">this</a> is a link to mobilize.us",
   "city": "Valentine",
