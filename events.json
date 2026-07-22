@@ -408,7 +408,7 @@
   "name": "Test Future Event with Link",
   "descriptorText": "This is a test link: <a href=\"mobilize.us\">this</a> is a link to mobilize.us",
   "city": "Valentine",
-  "venue": "",
+  "venue": "Test Venu",
   "date": "08/10/2026",
   "address": "302 N Main St, Valentine, NE 69201",
   "attendance": "",
