@@ -797,5 +797,20 @@
   "countyFips": "31173",
   "mobilizeId": 991744,
   "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/991744/"
+ },
+ {
+  "name": "Auburn",
+  "descriptorText": "",
+  "city": "Auburn",
+  "venue": "Auburn Public Library",
+  "date": "7/18/2026",
+  "address": "1810 Courthouse Ave, Auburn, NE 68305",
+  "attendance": "",
+  "image": "img-3144-875b7515.jpg",
+  "lat": 40.38623,
+  "lng": -95.8428406,
+  "precision": "manual",
+  "county": "Nemaha",
+  "countyFips": "31127"
  }
 ]
