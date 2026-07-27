@@ -952,6 +952,23 @@
   {
     "name": "",
     "descriptorText": "",
+    "city": "Hebron",
+    "venue": "Stastny Community Center",
+    "date": "8/2/2026",
+    "address": "1350 Dove Rd",
+    "attendance": "",
+    "image": "",
+    "lat": 40.176597,
+    "lng": -97.576013,
+    "precision": "mobilize",
+    "county": "Thayer",
+    "countyFips": "31169",
+    "mobilizeId": 995791,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/995791/"
+  },
+  {
+    "name": "",
+    "descriptorText": "",
     "city": "Superior",
     "venue": "Superior Public Library",
     "date": "8/2/2026",
