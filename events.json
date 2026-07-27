@@ -935,6 +935,23 @@
   {
     "name": "",
     "descriptorText": "",
+    "city": "Beatrice",
+    "venue": "Southeast Community College",
+    "date": "8/2/2026",
+    "address": "4771 W Scott Rd",
+    "attendance": "",
+    "image": "",
+    "lat": 40.261243,
+    "lng": -96.78927,
+    "precision": "mobilize",
+    "county": "Gage",
+    "countyFips": "31067",
+    "mobilizeId": 995805,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/995805/"
+  },
+  {
+    "name": "",
+    "descriptorText": "",
     "city": "Fairbury",
     "venue": "Fairbury Community Building",
     "date": "8/2/2026",
