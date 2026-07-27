@@ -868,13 +868,13 @@
     "name": "",
     "descriptorText": "",
     "city": "Hastings",
-    "venue": "Nebraska",
+    "venue": "Central Community College - Hastings",
     "date": "8/1/2026",
-    "address": "",
+    "address": "550 S Technical Blvd",
     "attendance": "",
     "image": "",
-    "lat": 40.586258,
-    "lng": -98.389873,
+    "lat": 40.576177,
+    "lng": -98.329378,
     "precision": "mobilize",
     "county": "Adams",
     "countyFips": "31001",
@@ -946,8 +946,8 @@
     "precision": "mobilize",
     "county": "Gage",
     "countyFips": "31067",
-    "mobilizeId": 995805,
-    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/995805/"
+    "mobilizeId": 995789,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/995789/"
   },
   {
     "name": "",
