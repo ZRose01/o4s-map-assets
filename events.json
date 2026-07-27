@@ -746,23 +746,6 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/970936/"
   },
   {
-    "name": "",
-    "descriptorText": "",
-    "city": "Auburn",
-    "venue": "Auburn Memorial Library",
-    "date": "7/18/2026",
-    "address": "1810 Courthouse Ave",
-    "attendance": "",
-    "image": "img-3144-875b7515.jpg",
-    "lat": 40.386283,
-    "lng": -95.842884,
-    "precision": "mobilize",
-    "county": "Nemaha",
-    "countyFips": "31127",
-    "mobilizeId": 988210,
-    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/988210/"
-  },
-  {
     "name": "Auburn",
     "descriptorText": "",
     "city": "Auburn",
