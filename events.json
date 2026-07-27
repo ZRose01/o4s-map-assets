@@ -833,6 +833,23 @@
   {
     "name": "",
     "descriptorText": "",
+    "city": "La Vista",
+    "venue": "The Astro Theater",
+    "date": "7/30/2026",
+    "address": "8302 City Centre Dr",
+    "attendance": "",
+    "image": "",
+    "lat": 41.18349,
+    "lng": -96.041236,
+    "precision": "mobilize",
+    "county": "Sarpy",
+    "countyFips": "31153",
+    "mobilizeId": 994438,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/994438/"
+  },
+  {
+    "name": "",
+    "descriptorText": "",
     "city": "Omaha",
     "venue": "Steamfitters & Plumbers Local Union #464",
     "date": "7/30/2026",
