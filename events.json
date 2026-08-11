@@ -1048,5 +1048,23 @@
     "countyFips": "31109",
     "mobilizeId": 995405,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/995405/"
+  },
+  {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Blair",
+    "venue": "Blair Public Library & Technology Center",
+    "date": "8/18/2026",
+    "address": "2233 Civic Dr",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/26-0802%20Beatrice%20%28Banner%29%20%5BEnglish%5D_20260728221713270409.png?w=640&auto=format,compress&q=70",
+    "lat": 41.554153,
+    "lng": -96.146281,
+    "precision": "mobilize",
+    "county": "Washington",
+    "countyFips": "31177",
+    "mobilizeId": 1007684,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1007684/"
   }
 ]
