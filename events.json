@@ -1066,5 +1066,23 @@
     "countyFips": "31177",
     "mobilizeId": 1007684,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1007684/"
+  },
+  {
+    "name": "Meet and Greet",
+    "descriptorText": "",
+    "city": "Clay Center",
+    "venue": "Serendipity Caf\u00e9",
+    "date": "8/23/2026",
+    "address": "220 S Center St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 40.519875,
+    "lng": -98.051841,
+    "precision": "mobilize",
+    "county": "Clay",
+    "countyFips": "31035",
+    "mobilizeId": 1011465,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1011465/"
   }
 ]
