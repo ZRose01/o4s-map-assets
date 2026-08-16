@@ -1084,5 +1084,23 @@
     "countyFips": "31035",
     "mobilizeId": 1011465,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1011465/"
+  },
+  {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Crete",
+    "venue": "Crete VFW 4959",
+    "date": "8/23/2026",
+    "address": "130 W 13th St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 40.625481,
+    "lng": -96.9622,
+    "precision": "mobilize",
+    "county": "Saline",
+    "countyFips": "31151",
+    "mobilizeId": 1011467,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1011467/"
   }
 ]
