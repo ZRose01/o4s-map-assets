@@ -1102,5 +1102,41 @@
     "countyFips": "31151",
     "mobilizeId": 1011467,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1011467/"
+  },
+  {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Geneva",
+    "venue": "",
+    "date": "8/23/2026",
+    "address": "",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 40.526951,
+    "lng": -97.595882,
+    "precision": "mobilize",
+    "county": "Fillmore",
+    "countyFips": "31059",
+    "mobilizeId": 1012202,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1012202/"
+  },
+  {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Seward",
+    "venue": "",
+    "date": "8/23/2026",
+    "address": "",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 40.907878,
+    "lng": -97.098493,
+    "precision": "mobilize",
+    "county": "Seward",
+    "countyFips": "31159",
+    "mobilizeId": 1012205,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1012205/"
   }
 ]
