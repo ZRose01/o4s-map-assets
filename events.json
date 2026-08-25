@@ -1138,5 +1138,23 @@
     "countyFips": "31159",
     "mobilizeId": 1012205,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1012205/"
+  },
+  {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Kearney",
+    "venue": "River Birch Room at Harmon Park",
+    "date": "9/2/2026",
+    "address": "3100 5th Ave",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/BASE%20FOR%20EVENT_20260825173950353516.png?w=640&auto=format,compress&q=70",
+    "lat": 40.706938,
+    "lng": -99.089596,
+    "precision": "mobilize",
+    "county": "Buffalo",
+    "countyFips": "31019",
+    "mobilizeId": 1017578,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1017578/"
   }
 ]
