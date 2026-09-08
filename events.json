@@ -1318,41 +1318,5 @@
     "countyFips": "31181",
     "mobilizeId": 1019205,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1019205/"
-  },
-  {
-    "name": "Meet and Greet",
-    "descriptorText": "",
-    "city": "Benkelman",
-    "venue": "Dundy County Library",
-    "date": "9/18/2026",
-    "address": "102 E 6th Ave",
-    "attendance": "",
-    "image": "",
-    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Benkelman%20png%20%281%29_20260906182753162934.png?w=640&auto=format,compress&q=70",
-    "lat": 40.049301,
-    "lng": -101.5326,
-    "precision": "mobilize",
-    "county": "Dundy",
-    "countyFips": "31057",
-    "mobilizeId": 1026707,
-    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1026707/"
-  },
-  {
-    "name": "Grab lunch",
-    "descriptorText": "",
-    "city": "Culbertson",
-    "venue": "The Bear Cave Cafe and Lounge",
-    "date": "9/18/2026",
-    "address": "500 Wyoming St",
-    "attendance": "",
-    "image": "",
-    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Culbertson%20PNG%20%281%29_20260906182129552954.png?w=640&auto=format,compress&q=70",
-    "lat": 40.22988,
-    "lng": -100.838683,
-    "precision": "mobilize",
-    "county": "Hitchcock",
-    "countyFips": "31087",
-    "mobilizeId": 1026753,
-    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1026753/"
   }
 ]
