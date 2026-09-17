@@ -1318,5 +1318,23 @@
     "countyFips": "31181",
     "mobilizeId": 1019205,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1019205/"
+  },
+  {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Omaha",
+    "venue": "Big Mama's Kitchen",
+    "date": "9/25/2026",
+    "address": "2112 N 30th St, Highlander Accelerator Suite 201",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/NORTH%20OMAHA_20260917174007462160.png?w=640&auto=format,compress&q=70",
+    "lat": 41.278867,
+    "lng": -95.956975,
+    "precision": "mobilize",
+    "county": "Douglas",
+    "countyFips": "31055",
+    "mobilizeId": 1037163,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1037163/"
   }
 ]
