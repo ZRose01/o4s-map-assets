@@ -1336,5 +1336,23 @@
     "countyFips": "31055",
     "mobilizeId": 1037163,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1037163/"
+  },
+  {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Ponca",
+    "venue": "Ponca Public Library",
+    "date": "10/3/2026",
+    "address": "201 W 2nd St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 42.564034,
+    "lng": -96.706717,
+    "precision": "mobilize",
+    "county": "Dixon",
+    "countyFips": "31051",
+    "mobilizeId": 1045222,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1045222/"
   }
 ]
