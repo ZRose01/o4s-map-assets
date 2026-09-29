@@ -1338,6 +1338,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1037163/"
   },
   {
+    "name": "Townhall",
+    "descriptorText": "",
+    "city": "Red Cloud",
+    "venue": "Red Cloud Community Center",
+    "date": "10/1/2026",
+    "address": "142 W 3rd Ave",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 40.087328,
+    "lng": -98.520226,
+    "precision": "mobilize",
+    "county": "Webster",
+    "countyFips": "31181",
+    "mobilizeId": 1048366,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1048366/"
+  },
+  {
     "name": "Town Hall",
     "descriptorText": "",
     "city": "Ponca",
