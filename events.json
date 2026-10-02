@@ -1447,5 +1447,41 @@
     "countyFips": "31051",
     "mobilizeId": 1045222,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1045222/"
+  },
+  {
+    "name": "Town hall",
+    "descriptorText": "",
+    "city": "Pierce",
+    "venue": "Pierce Public Library",
+    "date": "10/4/2026",
+    "address": "207 W Court St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 42.20032,
+    "lng": -97.52922,
+    "precision": "mobilize",
+    "county": "Pierce",
+    "countyFips": "31139",
+    "mobilizeId": 1052990,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1052990/"
+  },
+  {
+    "name": "Town hall",
+    "descriptorText": "",
+    "city": "West Point",
+    "venue": "Nielsen Community Center",
+    "date": "10/4/2026",
+    "address": "200 Anna Stalp Ave",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 41.843339,
+    "lng": -96.714114,
+    "precision": "mobilize",
+    "county": "Cuming",
+    "countyFips": "31039",
+    "mobilizeId": 1052974,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1052974/"
   }
 ]
