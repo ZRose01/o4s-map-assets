@@ -1501,5 +1501,23 @@
     "countyFips": "31039",
     "mobilizeId": 1052974,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1052974/"
+  },
+  {
+    "name": "Town hall",
+    "descriptorText": "",
+    "city": "Tekamah",
+    "venue": "Chatt Orville & Willa Senior Center",
+    "date": "10/9/2026",
+    "address": "1124 S 13th St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "",
+    "lat": 41.767457,
+    "lng": -96.222082,
+    "precision": "mobilize",
+    "county": "Burt",
+    "countyFips": "31021",
+    "mobilizeId": 1056766,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1056766/"
   }
 ]
