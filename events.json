@@ -1591,23 +1591,5 @@
     "countyFips": "31167",
     "mobilizeId": 1058787,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1058787/"
-  },
-  {
-    "name": "Town hall",
-    "descriptorText": "",
-    "city": "Omaha",
-    "venue": "Guaca Maya",
-    "date": "10/14/2026",
-    "address": "5002 S 33rd St",
-    "attendance": "",
-    "image": "",
-    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261009221415987776.png?w=640&auto=format,compress&q=70",
-    "lat": 41.208595,
-    "lng": -95.963568,
-    "precision": "mobilize",
-    "county": "Douglas",
-    "countyFips": "31055",
-    "mobilizeId": 1060962,
-    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1060962/"
   }
 ]
