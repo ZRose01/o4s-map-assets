@@ -780,6 +780,36 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/988209/"
   },
   {
+    "name": "Door Knocking",
+    "descriptorText": "",
+    "city": "Pawnee City",
+    "venue": "",
+    "date": "7/18/2026",
+    "address": "",
+    "attendance": "",
+    "image": "",
+    "lat": 40.108334,
+    "lng": -96.154451,
+    "precision": "manual",
+    "county": "Pawnee",
+    "countyFips": "31133"
+  },
+  {
+    "name": "Door Knocking",
+    "descriptorText": "",
+    "city": "Tecumseh",
+    "venue": "",
+    "date": "7/18/2026",
+    "address": "",
+    "attendance": "",
+    "image": "",
+    "lat": 40.3680345,
+    "lng": -96.1940137,
+    "precision": "manual",
+    "county": "Johnson",
+    "countyFips": "31097"
+  },
+  {
     "name": "Town Hall",
     "descriptorText": "",
     "city": "Albion",
@@ -1366,36 +1396,6 @@
     "precision": "manual",
     "county": "Brown",
     "countyFips": "31017"
-  },
-  {
-    "name": "Door Knocking",
-    "descriptorText": "",
-    "city": "Pawnee City",
-    "venue": "",
-    "date": "7/18/2026",
-    "address": "",
-    "attendance": "",
-    "image": "",
-    "lat": 40.108334,
-    "lng": -96.154451,
-    "precision": "manual",
-    "county": "Pawnee",
-    "countyFips": "31133"
-  },
-  {
-    "name": "Door Knocking",
-    "descriptorText": "",
-    "city": "Tecumseh",
-    "venue": "",
-    "date": "7/18/2026",
-    "address": "",
-    "attendance": "",
-    "image": "",
-    "lat": 40.3680345,
-    "lng": -96.1940137,
-    "precision": "manual",
-    "county": "Johnson",
-    "countyFips": "31097"
   },
   {
     "name": "Meet and Greet",
