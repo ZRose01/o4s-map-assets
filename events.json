@@ -1609,5 +1609,23 @@
     "countyFips": "31055",
     "mobilizeId": 1060962,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1060962/"
+  },
+  {
+    "name": "Town hall",
+    "descriptorText": "",
+    "city": "Lincoln",
+    "venue": "IBEW 265 Union Hall",
+    "date": "10/19/2026",
+    "address": "1409 Old Farm Rd",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/lincoln%20oct%2019_20261012193054332413.png?w=640&auto=format,compress&q=70",
+    "lat": 40.748914,
+    "lng": -96.700292,
+    "precision": "mobilize",
+    "county": "Lancaster",
+    "countyFips": "31109",
+    "mobilizeId": 1062780,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1062780/"
   }
 ]
