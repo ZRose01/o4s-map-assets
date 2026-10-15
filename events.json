@@ -1629,6 +1629,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1063142/"
   },
   {
+    "name": "Meet & Greet",
+    "descriptorText": "",
+    "city": "Mullen",
+    "venue": "Mullen Arts Center",
+    "date": "10/15/2026",
+    "address": "109 NW 1st St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261013171247929927.png?w=640&auto=format,compress&q=70",
+    "lat": 42.042753,
+    "lng": -101.04343,
+    "precision": "mobilize",
+    "county": "Hooker",
+    "countyFips": "31091",
+    "mobilizeId": 1063145,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1063145/"
+  },
+  {
     "name": "Town hall",
     "descriptorText": "",
     "city": "Stapleton",
