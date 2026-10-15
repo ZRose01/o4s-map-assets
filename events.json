@@ -1611,6 +1611,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1060962/"
   },
   {
+    "name": "Meet & Greet",
+    "descriptorText": "",
+    "city": "Hyannis",
+    "venue": "Sandhills State Bank Meeting Room",
+    "date": "10/15/2026",
+    "address": "101 Main Ave",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261012235645751671.png?w=640&auto=format,compress&q=70",
+    "lat": 42.000765,
+    "lng": -101.761438,
+    "precision": "mobilize",
+    "county": "Grant",
+    "countyFips": "31075",
+    "mobilizeId": 1063142,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1063142/"
+  },
+  {
     "name": "Town hall",
     "descriptorText": "",
     "city": "Stapleton",
