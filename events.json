@@ -1897,5 +1897,23 @@
     "countyFips": "31109",
     "mobilizeId": 1062780,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1062780/"
+  },
+  {
+    "name": "The Nebraska is NOT",
+    "descriptorText": "",
+    "city": "Omaha",
+    "venue": "Milo Bail Student Center Ballroom",
+    "date": "10/24/2026",
+    "address": "6203 S University Dr Rd N",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/signal-2026-10-17-111917_20261017191727741883.jpeg?w=640&auto=format,compress&q=70",
+    "lat": 41.258824,
+    "lng": -96.008593,
+    "precision": "mobilize",
+    "county": "Douglas",
+    "countyFips": "31055",
+    "mobilizeId": 1066549,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1066549/"
   }
 ]
