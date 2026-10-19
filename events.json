@@ -1899,6 +1899,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1062780/"
   },
   {
+    "name": "",
+    "descriptorText": "",
+    "city": "Lincoln",
+    "venue": "Meadowlark Coffee & Espresso",
+    "date": "10/21/2026",
+    "address": "1624 South St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Money%20out%20of%20politics_20261019184159718565.png?w=640&auto=format,compress&q=70",
+    "lat": 40.792341,
+    "lng": -96.69767,
+    "precision": "mobilize",
+    "county": "Lancaster",
+    "countyFips": "31109",
+    "mobilizeId": 1068750,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1068750/"
+  },
+  {
     "name": "The Nebraska is NOT",
     "descriptorText": "",
     "city": "Omaha",
