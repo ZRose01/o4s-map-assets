@@ -1935,6 +1935,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1066549/"
   },
   {
+    "name": "Meet & Greet",
+    "descriptorText": "",
+    "city": "Kimball",
+    "venue": "TT's Hometown Pub & Grub",
+    "date": "10/25/2026",
+    "address": "112 E 2nd St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261019191815493716.png?w=640&auto=format,compress&q=70",
+    "lat": 41.236888,
+    "lng": -103.662141,
+    "precision": "mobilize",
+    "county": "Kimball",
+    "countyFips": "31105",
+    "mobilizeId": 1068889,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1068889/"
+  },
+  {
     "name": "Town Hall",
     "descriptorText": "",
     "city": "Alliance",
