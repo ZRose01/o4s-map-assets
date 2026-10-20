@@ -1917,6 +1917,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1068750/"
   },
   {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Weeping Water",
+    "venue": "Hopper Community Center",
+    "date": "10/23/2026",
+    "address": "101 W Eldora Ave",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261019191815493716.png?w=640&auto=format,compress&q=70",
+    "lat": 40.869755,
+    "lng": -96.14039,
+    "precision": "mobilize",
+    "county": "Cass",
+    "countyFips": "31025",
+    "mobilizeId": 1069713,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1069713/"
+  },
+  {
     "name": "The Nebraska is NOT",
     "descriptorText": "",
     "city": "Omaha",
