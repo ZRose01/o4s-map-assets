@@ -2063,6 +2063,24 @@
   {
     "name": "Meet & Greet",
     "descriptorText": "",
+    "city": "Benkelman",
+    "venue": "Dundy County Library",
+    "date": "10/27/2026",
+    "address": "102 E 6th Ave",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261019191815493716.png?w=640&auto=format,compress&q=70",
+    "lat": 40.049301,
+    "lng": -101.5326,
+    "precision": "mobilize",
+    "county": "Dundy",
+    "countyFips": "31057",
+    "mobilizeId": 1070779,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1070779/"
+  },
+  {
+    "name": "Meet & Greet",
+    "descriptorText": "",
     "city": "Grant",
     "venue": "Little Bluestem",
     "date": "10/27/2026",
@@ -2077,5 +2095,23 @@
     "countyFips": "31135",
     "mobilizeId": 1068879,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1068879/"
+  },
+  {
+    "name": "Meet & Greet",
+    "descriptorText": "",
+    "city": "Imperial",
+    "venue": "Imperial Inn",
+    "date": "10/27/2026",
+    "address": "748 E 12th St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261019191815493716.png?w=640&auto=format,compress&q=70",
+    "lat": 40.523879,
+    "lng": -101.629688,
+    "precision": "mobilize",
+    "county": "Chase",
+    "countyFips": "31029",
+    "mobilizeId": 1070775,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1070775/"
   }
 ]
