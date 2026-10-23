@@ -2205,6 +2205,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1072943/"
   },
   {
+    "name": "Rally",
+    "descriptorText": "",
+    "city": "Lincoln",
+    "venue": "Barry's Bar and Grill",
+    "date": "11/1/2026",
+    "address": "235 N 9th St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261019191815493716.png?w=640&auto=format,compress&q=70",
+    "lat": 40.815604,
+    "lng": -96.708912,
+    "precision": "mobilize",
+    "county": "Lancaster",
+    "countyFips": "31109",
+    "mobilizeId": 1072953,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1072953/"
+  },
+  {
     "name": "Town Hall",
     "descriptorText": "",
     "city": "Columbus",
@@ -2221,5 +2239,23 @@
     "countyFips": "31141",
     "mobilizeId": 1071275,
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1071275/"
+  },
+  {
+    "name": "Election Nigh Eve Rally",
+    "descriptorText": "",
+    "city": "La Vista",
+    "venue": "The Astro Theater",
+    "date": "11/2/2026",
+    "address": "8302 City Centre Dr",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261019191815493716.png?w=640&auto=format,compress&q=70",
+    "lat": 41.183492,
+    "lng": -96.041235,
+    "precision": "mobilize",
+    "county": "Sarpy",
+    "countyFips": "31153",
+    "mobilizeId": 1072958,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1072958/"
   }
 ]
