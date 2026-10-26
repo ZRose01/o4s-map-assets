@@ -2115,6 +2115,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1070775/"
   },
   {
+    "name": "Rally",
+    "descriptorText": "",
+    "city": "Lexington",
+    "venue": "Three 21 Tavern",
+    "date": "10/28/2026",
+    "address": "112 E 5th St",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Lexington%20Rally_20261025104132172974.png?w=640&auto=format,compress&q=70",
+    "lat": 40.777525,
+    "lng": -99.740752,
+    "precision": "mobilize",
+    "county": "Dawson",
+    "countyFips": "31047",
+    "mobilizeId": 1073733,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1073733/"
+  },
+  {
     "name": "Town Hall",
     "descriptorText": "",
     "city": "Gothenburg",
