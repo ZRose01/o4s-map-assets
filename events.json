@@ -2151,6 +2151,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1072936/"
   },
   {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Hayes Center",
+    "venue": "Hayes Senior Center",
+    "date": "10/28/2026",
+    "address": "403 Tate Ave",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261026225720283016.png?w=640&auto=format,compress&q=70",
+    "lat": 40.511176,
+    "lng": -101.020025,
+    "precision": "mobilize",
+    "county": "Hayes",
+    "countyFips": "31085",
+    "mobilizeId": 1075022,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1075022/"
+  },
+  {
     "name": "Rally",
     "descriptorText": "",
     "city": "Lexington",
