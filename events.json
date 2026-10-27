@@ -2367,6 +2367,24 @@
     "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1071275/"
   },
   {
+    "name": "Town Hall",
+    "descriptorText": "",
+    "city": "Kearney",
+    "venue": "Nebraska Firefighters Museum & Education Center",
+    "date": "11/2/2026",
+    "address": "2834 E 1st St S",
+    "attendance": "",
+    "image": "",
+    "imageUrl": "https://mobilizeamerica.imgix.net/uploads/event/Osborn_Mobilize%20Linked%20Image_20260203161720385960_20261019191815493716.png?w=640&auto=format,compress&q=70",
+    "lat": 40.670411,
+    "lng": -99.046812,
+    "precision": "mobilize",
+    "county": "Buffalo",
+    "countyFips": "31019",
+    "mobilizeId": 1075979,
+    "mobilizeUrl": "https://www.mobilize.us/osbornforsenate/event/1075979/"
+  },
+  {
     "name": "Election Nigh Eve Rally",
     "descriptorText": "",
     "city": "La Vista",
